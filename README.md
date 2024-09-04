@@ -26,11 +26,11 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/screenshots/desktop-version.png)
+![desktop version](/design/active-states.jpg)
 
 Mobile version
 
-![mobile version](/screenshots/mobile-version.png)
+![mobile version](/design/mobile-design.jpg)
 
 ### Links
 
@@ -51,9 +51,3 @@ Added media queries for smaller devices to show optimal layout to the user.
 ### Continued development
 
 Will do more of these challenges to improve my skills.
-
-## Author
-
-- Website - [Shiva Santosh Jana](https://santu369.github.io/FreeCodeCamp-PersonalPortfolioWebpage)
-- Frontend Mentor - [@santu369](https://www.frontendmentor.io/profile/santu369)
-- Twitter - [@santu69](https://www.twitter.com/santu69)
