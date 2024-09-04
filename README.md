@@ -30,7 +30,7 @@ Desktop version
 
 Mobile version
 
-![mobile version](/design/mobile-version.png)
+![mobile version](/design/mobile-design.jpg)
 
 ### Links
 
