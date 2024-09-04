@@ -34,8 +34,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/santu369/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [GitHub Pages Live URL](https://santu369.github.io/frontendmentor-3-column-preview-card-component)
+- Solution URL: [Code on GitHub](https://github.com/HemaEzzat123/3-column-preview-card-component-main)
+- Live Site URL: [GitHub Pages Live URL](https://hemaezzat123.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
