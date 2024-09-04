@@ -26,11 +26,11 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/screenshots/desktop-version.png)
+![desktop version](/design/active-states.jpg)
 
 Mobile version
 
-![mobile version](/screenshots/mobile-version.png)
+![mobile version](/design/mobile-version.png)
 
 ### Links
 
